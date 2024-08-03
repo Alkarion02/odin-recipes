@@ -1,1 +1,2 @@
-This is a simple recipe website built using html only.
+# Basic Projects Repositary
+Contains basic projects built using html and css.
