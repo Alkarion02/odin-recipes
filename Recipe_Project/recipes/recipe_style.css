@@ -1,0 +1,15 @@
+* {
+    font-family: 'Verdana', 'Geneva', 'Tahoma', sans-serif;
+}
+
+h1 {
+    background-color: lightcoral;
+    color: white;
+    font-family: 'Verdana', 'Geneva', 'Tahoma', sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+h3 {
+    color: darkblue;
+}
