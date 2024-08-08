@@ -1,2 +1,2 @@
 # Basic Projects Repositary
-Contains basic projects built using html and css.
+A project repositary which contains beginner level projects. Languages used for making this projects are html and css. 
